@@ -7,7 +7,7 @@
 ---
 ## Как запустить  
 - Установить расширение браузера: [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
-- Для установки самого **скрипта** установите [это в расширение](https://github.com/TapPlays/AutoClicker-TapSwap/raw/main/tapswap-autoclicker.user.js)
+- Для установки самого **скрипта** установите [это расширение](https://github.com/TapPlays/AutoClicker-TapSwap/raw/main/tapswap-autoclicker.user.js)
 - Открыть [Бота TapSwap](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3D@tapswap_bot%26start%3Dr_1895812375) и запустить игру в браузере
 ---
 ## Вы можете так же запускать скрипт через официальное приложение Telegram
