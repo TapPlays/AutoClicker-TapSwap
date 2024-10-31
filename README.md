@@ -21,6 +21,6 @@
 - Нажмите **Enter**
 ---
 > [!TIP]
-> [Blum](https://github.com/TapPlays/AutoClicker-Blum)
+> - [Blum](https://github.com/TapPlays/AutoClicker-Blum)
 > - Так же в моем канале вы можете купить **рефералы**, **накрутку**, **RU номера** и **аккаунты**
 > - Канал: [Telegram Channel](https://t.me/Tap_Plays1)
